@@ -2,8 +2,7 @@
 
 An early-warning HR analytics project built for **Palo Alto Networks** as part of the Unified Mentor Machine Learning Fellowship. The project builds a unified **Engagement Index**, flags **burnout-prone employee groups**, and delivers an interactive **Streamlit dashboard** so HR can act *before* employees decide to leave.
 
-🔗 **Live Dashboard:** [https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)
-
+🔗 **Live Dashboard:** https://hr-engagement-analysis-luqxr6jerpb7g7du89wbzp.streamlit.app/
 ---
 
 ## 📌 Problem Statement
